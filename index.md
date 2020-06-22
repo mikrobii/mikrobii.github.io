@@ -1,1 +1,1 @@
-# Hiccup Horrendous Haddock the Third
+# Hiccup Horrendous Haddock III.
