@@ -6,4 +6,4 @@ Hiccup Horrendous Haddock the Third is a smallish Viking with a longish name. An
 * is a good sword fighter
 ## One of his quotes
 > I wouldn't kill him because he looked as frightened as I was.
-<img src="https://www.yumpu.com/en/document/read/14613655/chapter-4-how-to-train-your-dragon"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Face-smile.svg"/>
