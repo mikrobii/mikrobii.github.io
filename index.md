@@ -4,3 +4,5 @@ Hiccup Horrendous Haddock the Third is a smallish Viking with a longish name. An
 * small and skinny
 * can speak dragonese
 * is a good sword fighter
+## One of his quotes
+> I wouldn't kill him because he looked as frightened as I was.
